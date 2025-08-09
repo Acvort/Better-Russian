@@ -429,7 +429,7 @@ enchantment.minecraft.flame | Горящая стрела
 
 ## [📙] Licensed || Лицензия
 ### -> [CC-BY-NC-SA-4.0](https://github.com/Acvort/Better-Russian?tab=License-1-ov-file#creative-commons-attribution-non-commercial-share-alike-40-international)
-<img width="1023" height="575" alt="CC-BY-NC-SA-4.0" src="https://github.com/user-attachments/assets/c7c5f1e0-35a7-4930-9fc5-0b00cb306e7a" />
+<img width="1023" height="575" alt="CC-BY-NC-SA-4 0" src="https://github.com/user-attachments/assets/1279eb31-4913-4503-94c1-87ff4124b6ab" />
 
 ## [📥] Следите за обновлениями
 ### -> [Modrinth](https://modrinth.com/resourcepack/better-russian)
@@ -438,3 +438,4 @@ enchantment.minecraft.flame | Горящая стрела
 -> GitHub | https://github.com/RinixGG
 
 -> Modrinth | https://modrinth.com/user/Rinix
+
