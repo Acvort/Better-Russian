@@ -1070,17 +1070,17 @@ advancements.story.cure_zombie_villager.description | Ослабьте и исц
 effect.waterBreathing | Подводное дыхание
 enchantment.arrowDamage | §fСила
 enchantment.arrowFire | §fГорящая стрела
-enchantment.arrowInfinite | §f/| §fБесконечность
+enchantment.arrowInfinite | §f\| §fБесконечность
 enchantment.arrowKnockback | §fОткидывание
 enchantment.binding_curse | §fПроклятие несъёмности
-enchantment.damage.all | §c/| §fОстрота \|\| Урон
-enchantment.damage.arthropods | §c/| §fБич членистоногих \|\| Урон насекомым
-enchantment.damage.undead | §c/| §fНебесная кара \|\| Урон нежити
+enchantment.damage.all | §c\| §fОстрота \|\| Урон
+enchantment.damage.arthropods | §c\| §fБич членистоногих \|\| Урон насекомым
+enchantment.damage.undead | §c\| §fНебесная кара \|\| Урон нежити
 enchantment.digging | §fЭффективность
 enchantment.durability | §fПрочность
 enchantment.fire | §fЗаговор огня
 enchantment.fishingSpeed | §fПриманка
-enchantment.frostWalker | §b/| §fЛедоход
+enchantment.frostWalker | §b\| §fЛедоход
 enchantment.knockback | §fОтдача
 enchantment.level.1 | 
 enchantment.level.2 | §f2
@@ -1338,20 +1338,20 @@ enchantment.level.253 | §f253
 enchantment.level.254 | §f254
 enchantment.level.255 | §f255
 enchantment.lootBonus | §fДобыча
-enchantment.lootBonusDigger | §2/| §fУдача
+enchantment.lootBonusDigger | §2\| §fУдача
 enchantment.lootBonusFishing | §fВезучий рыбак
-enchantment.mending | §f/| §fПочинка
+enchantment.mending | §f\| §fПочинка
 enchantment.oxygen | §fПодводное дыхание
-enchantment.protect.all | §d/| §fЗащита
-enchantment.protect.explosion | §d/| §fВзрывоустойчивость
+enchantment.protect.all | §d\| §fЗащита
+enchantment.protect.explosion | §d\| §fВзрывоустойчивость
 enchantment.protect.fall | §fНевесомость
-enchantment.protect.fire | §d/| §fОгнеупорность
-enchantment.protect.projectile | §d/| §fЗащита от снарядов
+enchantment.protect.fire | §d\| §fОгнеупорность
+enchantment.protect.projectile | §d\| §fЗащита от снарядов
 enchantment.sweeping | §fРазящий клинок \|\| Зона поражения
 enchantment.thorns | §fШипы
-enchantment.untouching | §2/| §fШёлковое касание
+enchantment.untouching | §2\| §fШёлковое касание
 enchantment.vanishing_curse | §fПроклятие утраты
-enchantment.waterWalker | §b/| §fПодводная ходьба
+enchantment.waterWalker | §b\| §fПодводная ходьба
 enchantment.waterWorker | §fПодводник \|\| Подводный шахтёр
 entity.DragonFireball.name | Огненный шар дракона
 entity.Fireball.name | Огненный шар
@@ -1787,5 +1787,6 @@ tipped_arrow.effect.water_breathing | Стрела подводного дыха
 -> GitHub | https://github.com/RinixGG
 
 -> Modrinth | https://modrinth.com/user/Rinix
+
 
 
