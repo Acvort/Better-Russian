@@ -1735,8 +1735,12 @@ tile.leaves.birch.name | Берёзовая листва
 tile.leaves.jungle.name | Тропическая листва
 tile.leaves.oak.name | Дубовая листва
 tile.leaves.spruce.name | Еловая листва
+tile.log.acacia.name | Акациевое бревно
 tile.log.big_oak.name | Тёмно-дубовое бревно
+tile.log.birch.name | Берёзовое бревно
 tile.log.jungle.name | Тропическое бревно
+tile.log.oak.name | Дубовое бревно
+tile.log.spruce.name | Еловое бревно
 tile.mobSpawner.name | Спавнер
 tile.pressurePlate.dark_oak.name | Тёмно-дубовая нажимная плита
 tile.pressurePlate.jungle.name | Тропическая нажимная плита
@@ -1787,6 +1791,7 @@ tipped_arrow.effect.water_breathing | Стрела подводного дыха
 -> GitHub | https://github.com/RinixGG
 
 -> Modrinth | https://modrinth.com/user/Rinix
+
 
 
 
