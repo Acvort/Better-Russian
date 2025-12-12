@@ -72,7 +72,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:misc/enchantment/type/melee_weapons.png",
+			"file": "minecraft:misc/enchantment/type/spear.png",
 			"ascent": 7,
 			"height": 8,
 			"chars": ["\uedb1"]
@@ -118,6 +118,34 @@
 			"ascent": 7,
 			"height": 8,
 			"chars": ["\uedb7"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/enchantment/type/melee_weapons_1_2_3_4.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": ["\uedb8"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/enchantment/type/melee_weapons_1_2_3.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": ["\uedb9"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/enchantment/type/melee_weapons_1_2_4.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": ["\uedc1"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/enchantment/type/melee_weapons_1_2.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": ["\uedc2"]
 		},
 		{
 			"type": "bitmap",

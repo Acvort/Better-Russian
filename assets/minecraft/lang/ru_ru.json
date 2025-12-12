@@ -493,19 +493,24 @@
 	"enchantment.minecraft.loyalty":               "\u00a7f\ueea7\ueea1\uedb5\ueea1Верность",
 	"enchantment.minecraft.riptide":               "\u00a7f\ueea6\ueea1\uedb5\ueea1Тягун",
 	
-	"enchantment.minecraft.sharpness":             "\u00a7f\ueea8\ueea1\uedb1\ueea1Острота || Урон",
-	"enchantment.minecraft.bane_of_arthropods":    "\u00a7f\ueea8\ueea1\uedb1\ueea1Бич членистоногих || Урон насекомым",
-	"enchantment.minecraft.smite":                 "\u00a7f\ueea8\ueea1\uedb1\ueea1Небесная кара || Урон нежити",
-	
-	"enchantment.minecraft.fire_aspect":           "\u00a7f\ueea1\ueea1\uedb2\ueea1Заговор огня",
-	"enchantment.minecraft.knockback":             "\u00a7f\ueea1\ueea1\uedb2\ueea1Отдача",
-	"enchantment.minecraft.looting":               "\u00a7f\ueea1\ueea1\uedb2\ueea1Добыча",
 	"enchantment.minecraft.sweeping":              "\u00a7f\ueea1\ueea1\uedb2\ueea1Разящий клинок || Зона поражения",
 	"enchantment.minecraft.sweeping_edge":         "\u00a7f\ueea1\ueea1\uedb2\ueea1Разящий клинок || Зона поражения",
+	
+	"enchantment.minecraft.lunge": 				   "\u00a7f\ueea1\ueea1\uedb1\ueea1Рывок",
 	
 	"enchantment.minecraft.breach":                "\u00a7f\ueea8\ueea1\ueda9\ueea1Пробитие || Бронепробиваемость",
 	"enchantment.minecraft.density":               "\u00a7f\ueea8\ueea1\ueda9\ueea1Плотность || Гравитационный разгон",
 	"enchantment.minecraft.wind_burst":            "\u00a7f\ueea1\ueea1\ueda9\ueea1Порыв ветра",
+	
+	"enchantment.minecraft.sharpness":             "\u00a7f\ueea8\ueea1\uedc1\ueea1Острота || Урон",
+	
+	"enchantment.minecraft.bane_of_arthropods":    "\u00a7f\ueea8\ueea1\uedb8\ueea1Бич членистоногих || Урон насекомым",
+	"enchantment.minecraft.smite":                 "\u00a7f\ueea8\ueea1\uedb8\ueea1Небесная кара || Урон нежити",
+	
+	"enchantment.minecraft.fire_aspect":           "\u00a7f\ueea1\ueea1\uedb9\ueea1Заговор огня",
+	
+	"enchantment.minecraft.knockback":             "\u00a7f\ueea1\ueea1\uedc2\ueea1Отдача",
+	"enchantment.minecraft.looting":               "\u00a7f\ueea1\ueea1\uedc2\ueea1Добыча",
 	
 	"enchantment.minecraft.flame":                 "\u00a7f\ueea1\ueea1\ueda3\ueea1Горящая стрела",
 	"enchantment.minecraft.infinity":              "\u00a7f\ueea9\ueea1\ueda3\ueea1Бесконечность",
