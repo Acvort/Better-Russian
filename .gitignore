@@ -1,0 +1,10 @@
+**/gen
+**/target
+*.db-*
+.env
+.idea
+.vscode
+node_modules
+
+# Stakpak session files
+.stakpak/session*
