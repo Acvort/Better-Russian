@@ -1788,8 +1788,6 @@ tipped_arrow.effect.water_breathing | Стрела подводного дыха
 ### -> [Modrinth](https://modrinth.com/resourcepack/better-russian)
 ## [🔗] Источники
 ### Соавтор "Rinix"
--> GitHub | https://github.com/RinixGG
-
 -> Modrinth | https://modrinth.com/user/Rinix
 
 
